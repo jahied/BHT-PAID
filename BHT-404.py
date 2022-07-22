@@ -138,12 +138,12 @@ class Main:
  | |_) |     | |  | |    | |  | |____ / ____ \| |  | |
  |____/      |_|  |_|    |_|  |______/_/    \_\_|  |_|                           
 ─────────────────────────────────────────────────────────
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m BD JAHIED\x1b[0m\x1b[1;97m]
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Version : 3.1\x1b[0m\x1b[1;97m] \033[1;37m 
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m welcome to black Hunter team\x1b[0m\x1b[1;97m]
+\t\033[
 ─────────────────────────────────────────────────────────
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Author       : BD-JAHIED \x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Github       : BLACK-HUNTER-TEAM \x1b[0m\x1b[1;97m]
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook : BD JAHIED \x1b[0m\x1b[1;97m]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook     : BD JAHIED \x1b[0m\x1b[1;97m]
 ─────────────────────────────────────────────────────────
     """)
 		print("%s [%s•%s] %sTOOL NAME : %s2009 Cloning Tool"%(G,R,G,B,G))
