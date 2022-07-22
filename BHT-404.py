@@ -192,7 +192,7 @@ class Main:
 				print("%s [=>] CRACK WITH PASSWORD -> [\033[0;97m%s\033[0;97m]"%(Y,listpass))
 				os.system("clear")
 				logo2()
-				print("──────────────────────────────────────────────────────────── ")
+				print("───────────────────────────────────────────────────────── ")
 				print("\033[0;92m[=×>]\033[0;92m NOTE : CP ID LOGIN KORAR AGE ")
 				print("\033[0;92m[=×>]\033[0;92m NOTE : FACEBOOK AR DATA CLEAR KORE NIBA " )
 				print("\033[0;92m[=×>]\033[0;92m NOTE : ENJOY PAID TOOL")
